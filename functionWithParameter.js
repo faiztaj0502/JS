@@ -1,6 +1,6 @@
-var a = function(x,y){
+const a = function(x,y){
     return x+y;
 }
-let b = a(10, 10);
+const b = a(15, 10);
 console.log(b)
 
